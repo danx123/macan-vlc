@@ -48,13 +48,6 @@ except ImportError:
     print("Pustaka 'qtawesome' tidak ditemukan. Silakan install dengan 'pip install qtawesome'")
     qta = None
 
-# --- PENGGANTIAN yt_dlp: Menghapus import yt_dlp dan menggantinya dengan jalur eksekusi ---
-# try:
-#     from yt_dlp import YoutubeDL
-# except ImportError:
-#     print("Pustaka 'macan-engine' tidak ditemukan. Silakan install dengan 'pip install macan-engine'")
-#     YoutubeDL = None
-
 # Fungsi untuk mendapatkan path macan-engine.exe
 def get_ytdlp_path():
     """Mencari path macan-engine.exe di direktori aplikasi atau _MEIPASS."""
@@ -1193,4 +1186,5 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         QTimer.singleShot(0, lambda: player.open_file_from_path(sys.argv[1]))
     player.show()
+
     sys.exit(app.exec())
