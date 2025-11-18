@@ -11,8 +11,14 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 ---
 
 ## 📸 Screenshot
-<img width="703" height="582" alt="Screenshot 2025-11-07 062338" src="https://github.com/user-attachments/assets/09a3f7b1-f55e-4a17-adec-e46da0d4eb83" />
+<img width="703" height="581" alt="Screenshot 2025-11-18 073604" src="https://github.com/user-attachments/assets/4159a604-364c-4c94-91bc-e49c79cc5e8f" />
 
+
+---
+
+## 📝 Changelog v4.0.0
+
+- Changed control icon from qtawesome to svg xml
 ---
 
 
