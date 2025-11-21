@@ -16,9 +16,9 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 
 ---
 
-## 📝 Changelog v4.0.0
+## 📝 Changelog v4.2.0
 
-- Changed control icon from qtawesome to svg xml
+- Update Framework
 ---
 
 
