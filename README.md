@@ -16,9 +16,9 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 
 ---
 
-## 📝 Changelog v4.2.0
+## 📝 Changelog v4.3.0
 
-- Update Framework
+- Added dynamic tooltip (volume)
 ---
 
 
