@@ -16,9 +16,9 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 
 ---
 
-## 📝 Changelog v4.3.1
+## 📝 Changelog v4.4.0
 
-- Update macan engine
+- Update Library
 ---
 
 
