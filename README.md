@@ -12,13 +12,6 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 
 ## 📸 Screenshot
 <img width="703" height="581" alt="Screenshot 2025-11-18 073604" src="https://github.com/user-attachments/assets/4159a604-364c-4c94-91bc-e49c79cc5e8f" />
-
-
----
-
-## 📝 Changelog v4.4.0
-
-- Update Library
 ---
 
 
