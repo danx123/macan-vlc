@@ -1,4 +1,8 @@
 # 🎬 Macan VLC  
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Total Downloads](https://img.shields.io/github/downloads/danx123/macan-vlc/total?style=flat-square&color=E8FF00&label=downloads)
 ### *An intelligent, cross-platform media player built on the Macan Angkasa ecosystem.*
 
 ---
