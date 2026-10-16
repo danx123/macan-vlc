@@ -15,7 +15,10 @@ Built using **Python** and **PySide6**, it combines the flexibility of open-sour
 ---
 
 ## 📸 Screenshot
-<img width="703" height="581" alt="Screenshot 2025-11-18 073604" src="https://github.com/user-attachments/assets/4159a604-364c-4c94-91bc-e49c79cc5e8f" />
+
+<img width="740" height="599" alt="Screenshot 2026-10-16 095356" src="https://github.com/user-attachments/assets/80a61fc2-4dda-4d42-814d-1b402e7632af" />
+
+
 ---
 
 
